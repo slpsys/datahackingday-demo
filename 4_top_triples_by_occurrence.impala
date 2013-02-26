@@ -1,1 +1,5 @@
-select * from ddr where name1 <> name2 order by _c3 desc limit 10
+SELECT * 
+	FROM ddr 
+	WHERE name1 <> name2 
+ORDER BY _c3 DESC 
+LIMIT 10
